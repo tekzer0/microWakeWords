@@ -1,6 +1,6 @@
 ## 🗣️ Request a New Wake Word
 
-You can request a new microWakeWord model by opening a GitHub issue.
+You can request a new microWakeWord model by opening a GitHub issue (not here, but on the original repo).
 
 ### ✅ How to request a word
 
