@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "megatron",
+  "wake_word": "Megatron",
   "author": "Aaron Corbitt",
   "website": "https://github.com/tekzer0",
   "model": "megatron.tflite",
